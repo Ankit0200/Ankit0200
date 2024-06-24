@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ankit Devkota</h1>
-<h3 align="center">A passionate python developer from Nepal</h3>
+<h3 align="center">CS and physics enthusiast from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit0200&label=Profile%20views&color=0e75b6&style=flat" alt="ankit0200" /> </p>
 
