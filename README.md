@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankit0200" alt="ankit0200" /></a> </p>
 
-- 🔭 I’m currently working at **Upwork**.  
+- 🔭 I’m currently Studying computer engineering
 - 🌱 I’m currently learning **FastAPI and Data Structures**.  
 - 👯 I’m looking to collaborate on **backend and API development projects**.  
 - 🤝 I’m looking for help with **frontend development and advanced system design**.  
