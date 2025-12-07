@@ -40,7 +40,6 @@ Over the last few years, I've developed projects ranging from agricultural tech 
 
 ### 🧩 What I'm Building / Interested In
 - 🤖 **Real-time detection systems** (e.g., tiger detection w/ YOLO + hardware triggers)  
-- 🌾 **Agri-tech platforms** that help farmers access subsidies and information  
 - ⚙️ **Robotics and mechatronics projects** combining physics + CS  
 - 🧠 **LLM-powered workflow tools** for automation  
 - 🏗️ **High-performance backend systems**  
