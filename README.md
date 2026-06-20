@@ -12,7 +12,7 @@
 I'm a Computer Engineering student at the **University of Southern Mississippi** .
 I build things that work in the  backend systems, AI-powered tools, and hardware-software integrations.
 
-Currently, I work as a **Research Assistant** on a Traffic optimization project where I'm developing ML framework for real-time vehicle trajectory tracking and adaptive signal control using YOLO, LSTM, and PyTorch.
+Currently, I work as a **Research Assistant** on a Traffic optimization project where I'm developing ML framework for real-time vehicle trajectory tracking and adaptive signal control using Computer vision and Deep learning.
 
 Outside of research, I enjoy building automation tools and AI-powered applications that solve practical problems.
 
