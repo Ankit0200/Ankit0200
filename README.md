@@ -17,10 +17,9 @@ Currently, I work as a **Research Assistant** on a Traffic optimization project 
 Outside of research, I enjoy building automation tools and AI-powered applications that solve practical problems.
 
 - 🎓 Studying **Computer Engineering** at USM | President's List
-- 🔭 Currently working on **AI-driven traffic control systems** (YOLOv11 + LSTM + OpenCV)
+- 🔭 Currently working on **AI-driven traffic control systems**
 - 🧠 Currently learning **Deep Learning** (CNNs, sequence models, training pipelines)
 - 🛠️ I build with **Python, FastAPI, Django, and JavaScript**
-- 🌱 Exploring **real-time systems, IoT integrations, and LLM-powered workflows**
 - 🤝 Open to collaborating on **backend systems, AI tools, or hardware-software projects**
 - 💬 Ask me about **Python, FastAPI, REST APIs, system design, or ESP32**
 - 📩 Reach me at: **ankit.intern200@gmail.com**
@@ -61,8 +60,6 @@ Outside of research, I enjoy building automation tools and AI-powered applicatio
 
 - 🥇 President's List — University of Southern Mississippi
 - 🎓 Academic Excellence Scholarship (full tuition + freshman housing)
-- 🏆 Winner, SXC SET Exhibition 2023 — Technology Category
-- 🤝 Hackathon contributor — survAI (voice feedback intelligence tool)
 
 ---
 
